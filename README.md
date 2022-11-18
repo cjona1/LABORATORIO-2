@@ -77,6 +77,8 @@ Circuito armado en fisico:
 
 3.1	EXPLICACIÓN DEL PROCEDIMIENTO
 
+Como podemos ver y al realizar nuestro circuito, tenemos tres mallas las cuales las vamos a calcular d ela siguiente manera.
+
 ![image](https://user-images.githubusercontent.com/116687152/202700512-dfd5367f-d089-411a-94ce-813a251ec55d.png)
 
 ![image](https://user-images.githubusercontent.com/116687152/202700536-bc4d65f8-a7f8-44ef-85ff-4dc2c14cc409.png)
