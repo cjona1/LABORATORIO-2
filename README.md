@@ -64,6 +64,8 @@ Fuente de voltaje: es un dispositivo que tiene dos terminales encargadas de gene
 Implemente el circuito que se presenta en la figura 2.1.
 
 ![image](https://user-images.githubusercontent.com/116687152/202700480-32a45de0-dd82-4a8d-a6c1-a8315493edbf.png)
+
+Como podemos observar tenemos un circuito con 5 resistencias y dos fuentes de alimentacion al armar el circuito debemos saber y revisar que los componentes esten en buen estado.
  
 Circuito armado en tinkercad:
 
@@ -91,7 +93,7 @@ Compare los valores de la tabla 2.1 y realice sus conclusiones.
 ![image](https://user-images.githubusercontent.com/117781491/202715752-ec9f967e-1875-4d02-920e-5a9e3210aff6.png)
 
 
-Se puede observar que  en este caso en las mallas  I1 e  I2 el calculo del error es cero, es decir que no hubo fallas en los instrumentos de medición, y tampoco variación en los resultados analíticos y experimentales, por otro lado en el caso de la malla  I3 el error es de 200 %, es decir existe un margen de error  muy grande en los resultados analíticos y experimentales.**
+Se puede observar que  en este caso en las mallas  I1 e  I2 el calculo del error es cero, es decir que no hubo fallas en los instrumentos de medición, y tampoco variación en los resultados analíticos y experimentales, por otro lado en el caso de la malla  I3 el error es de 200 %, es decir existe un margen de error  muy grande en los resultados analíticos y experimentales.
 
 # 5.VIDEO
 
