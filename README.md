@@ -93,11 +93,11 @@ Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
 Se puede observar que  en este caso en las mallas  I1 e  I2 el calculo del error es cero, es decir que no hubo fallas en los instrumentos de medición, y tampoco variación en los resultados analíticos y experimentales, por otro lado en el caso de la malla  I3 el error es de 200 %, es decir existe un margen de error  muy grande en los resultados analíticos y experimentales.**
 
-# 5 VIDEO
+# 5.VIDEO
 
-https://www.youtube.com/watch?v=3-fPs58_GwI
+https://www.youtube.com/watch?v=QRlPtPXpKhM
 
-# 6.CONCLUSIONES
+# 6. CONCLUSIONES
 
 •	Una malla consiste en un conjunto de ramas que forman un camino cerrado y que no contienen ninguna otra línea cerrada en su interior.
 
