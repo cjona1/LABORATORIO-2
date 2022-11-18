@@ -69,7 +69,9 @@ Como podemos observar tenemos un circuito con 5 resistencias y dos fuentes de al
  
 Circuito armado en tinkercad:
 
-https://www.tinkercad.com/things/clrkCOizbg7-frantic-densor/editel?tenant=circuits
+![image](https://user-images.githubusercontent.com/116817673/202726714-cfd52303-6c6a-434e-9220-9f9244ffd8e5.png)
+
+https://www.tinkercad.com/things/4s8sgUaVk3K-fabulous-leelo-fulffy/editel?sharecode=tyANZYFCcwxi534OdUL2u5E0bY1mhqhAdwMybXed_gY
 
 Circuito armado en fisico:
 
